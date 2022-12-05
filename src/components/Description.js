@@ -6,6 +6,7 @@ const Description = () => {
       JS. <br /> <br />
       Although it is a very tiny app it still describes how to create components
       in React, an awesome Javascript Library made by Facebook
+      Update.
     </div>
   )
 }
